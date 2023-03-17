@@ -1,0 +1,39 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("images/anh-lab12.jpg");
+  padding-inline-end: 50%;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("images/anh1-lab12.jpg");
+  padding-inline-end: 50%;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("images/anh2-lab12.jpg");
+  padding-inline-end: 50%;
+}
+
+.section-pu {
+  display: inline-block;
+}
+
+.pu1 {
+  padding-top: 50px;
+  margin: 30px;
+}
+
+.pu1 u {
+  color: blue;
+  margin: 3px;
+}
+
+.pu2 {
+  color: blue;
+  margin-left: 700px;
+}
